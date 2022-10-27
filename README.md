@@ -1,4 +1,5 @@
-# put_io_lab
+26.10.2022
+# PUT_io_lab
 ## IO studing 
 
 Inżynieria oprogramowania
